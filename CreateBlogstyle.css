@@ -15,7 +15,14 @@ textarea{
     margin-right:auto;
 }
 
-#upload{
+#banner{
+    width:90%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#thumbnail{
     width:90%;
     display:block;
     margin-left:auto;
