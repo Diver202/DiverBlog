@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    padding:20px;
+}
+p{
+    padding-top: 30px;
+    padding-left:40px;
+    padding-bottom: 30px;
+}
+
+textarea{
+    width:90%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#upload{
+    width:90%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.publish{
+    width:100%;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
